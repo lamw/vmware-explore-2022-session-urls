@@ -19,7 +19,7 @@ Total Sessions NOT posted: 58
 
 * [Cloud Native App Development](#cloud-native-app-development) (32)
 
-* [DevOps & DevSecOps](#devops-&-devsecops) (27)
+* [DevOps and DevSecOps](#devops-and-devsecops) (27)
 
 * [General Session and Solution Keynotes](#general-session-and-solution-keynotes) (9)
 
@@ -296,7 +296,7 @@ OSB1529US | [Exploring the Kubernetes Ecosystem ??? A Guided Tour](https://www.v
 OSB1669USD | [Antrea Deep Dive](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1652251390311001z7FR&videoId=6311394718112) | Jahnin Rajamoni
 VIB1345US | [One Multi-Cloud Grid to Run all Machine Learning Operations Stages](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1651785851956001b2UN&videoId=6311752450112) | Enrique Corro, Chris Gully, Bob Glithero
 
-## DevOps & DevSecOps
+## DevOps and DevSecOps
 Session | Title | Speakers
 ---|---|---
 DOS1513QUS | [Simplicity in a Complex World - App Modernization without Stress for IT Ops](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1652136933091001tlF0&videoId=6311649461112) | Jim Brown, Mo Hasan
