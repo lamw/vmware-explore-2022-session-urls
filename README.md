@@ -210,7 +210,7 @@ CSXB1179USD | [VMware Success 360 and the Possibilities of the Edge](https://www
 MCB2922US | [VxRail Innovation 6 Years On: Engineered with VMware, Past and the Future](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1656086879174001RHzP&videoId=6311754230112) | William Leslie, Jonathan Dyson, Jeremy Merrill
 MCLB2732US | [VMware Horizon on Oracle Cloud VMware Solution Best Practice](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1654782963821001bvcL&videoId=6311753529112) | Praveen Kumar Pedda Vakkalam, Will Hull
 MCLB2971US | VMware Security: Zero Trust Simplified | Thiago Koga, GONZALO BALERDI
-VIB1541US | VMware xLabs: Accelerating Innovation with Our Customers and Partners | Martin Stack, Alan Renouf, Dennis Ramdass, Nir Peled
+VIB1541US | [VMware xLabs: Accelerating Innovation with Our Customers and Partners](https://www.vmware.com/explore/video-library/video-landing.html?sessionid=1652158212366001C9bU&videoId=6312001348112) | Martin Stack, Alan Renouf, Dennis Ramdass, Nir Peled
 
 ## Cloud Management
 Session | Title | Speakers
